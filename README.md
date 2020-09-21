@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/rezaalie/">Linkedin</a>
 </p>
 
-## Dataset for names of people in Persian language
+## دیتاست نام اشخاص به زبان فارسی
 <br>
 count of records : 6381
 
