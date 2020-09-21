@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://rezaalie.ir/wp-content/uploads/2020/09/say-name22.jpg" alt="دیتاست نام اشخاص به زبان فارسی" width="200" height="100"> 
+ <img src="https://rezaalie.ir/wp-content/uploads/2020/09/say-name22.jpg" alt="دیتاست نام اشخاص به زبان فارسی" width="300" height="100"> 
 
 <a href="https://www.kaggle.com/rezaali">Kaggle</a>   | 
 <a href="https://rezaalie.ir"> Reza Ali</a>  |
